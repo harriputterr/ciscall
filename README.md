@@ -3,6 +3,8 @@
 
 CisCall is a Cisco-themed, accountless video conferencing and live-streaming platform built with Go, Fiber and Pion/WebRTC.
 
+![CisCall Demo](./demogif.gif)
+
 ---
 
 ## 🚀 Features
